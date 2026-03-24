@@ -2,10 +2,10 @@
 Digital Literacy project covering infographic design, professional profiles, coding platforms, email etiquette and cybercrime awareness.
 
 ## Student Details
-🔹Name: Samriddhi Maudgal
-🔹Registration No: 25BAI10416
-🔹Branch: B.TECH CSE AI-ML
-🔹Year: 1st Year
+- Name: Samriddhi Maudgal
+- Registration No: 25BAI10416
+- Branch: B.TECH CSE AI-ML
+- Year: 1st Year
 
 ## 📌 Project Overview
 This project is created as part of the CSE0001 Digital Literacy course. It demonstrates essential digital skills including online safety, professional communication, and digital tools usage.
@@ -29,4 +29,4 @@ Drafted professional emails and created social media guidelines. 📁 Folder: ta
 Created a case study and prevention checklist. 📁 Folder: task-5-cybercrimes
 
 ## Conclusion
-This project helped me understand digital literacy, online safety, and professional communication skills.
+This project helped me understand digital literacy, online safety and professional communication skills.
